@@ -1,2 +1,3 @@
 # ID_Card_Generator
-Created with CodeSandbox
+# Enter User Details like Name, College Name and Location
+# It will show the Card
